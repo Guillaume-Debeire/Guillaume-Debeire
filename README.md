@@ -7,6 +7,8 @@
 
 I'm a **fullstack web developer** with **video editing** background.
 
+I first started with PHP and specialized myself with **Symfony**, now I'm learning **React** and **React Native**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaume-debeire&layout=compact)](https://github.com/guillaume-debeire/github-readme-stats)
 
 <!--
