@@ -1,5 +1,12 @@
 ### Hello there 👋 I'm Guillaume Debeire, a french Developer
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/guillaume-debeire)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-debeire//)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/guilexflex/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact.guillaume.debeire.pro@gmail.com)
+
+I'm a **fullstack web developer** with **video editing** background.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaume-debeire&layout=compact)](https://github.com/guillaume-debeire/github-readme-stats)
 
 <!--
